@@ -87,7 +87,7 @@ select{height:26px; padding:3px; line-height:26px;}
 .success-msg,
 .note-msg,
 .notice-msg{ font:12px/1.35 Arial, Helvetica, sans-serif;}
-.success-msg{ background:url(../images/success-msg.png) 10px 6px no-repeat #eaf4cd; color:#566626;  padding:8px 20px 8px 40px; border:1px solid #ccd293;border-radius:3px;
+.success-msg{ background:url(https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/success-msg.png) 10px 6px no-repeat #eaf4cd; color:#566626;  padding:8px 20px 8px 40px; border:1px solid #ccd293;border-radius:3px;
     -webkit-border-radius:3px;
     -moz-border-radius:3px; }
 .notice-msg{margin-bottom:5px;}
@@ -130,7 +130,7 @@ ul.products-list { padding:0; list-style:none; border:0 }
 .products-list .add-to-links .separator { display:none }
 .slider-ver {height:500px; position:relative;}
 .slider-ver a.next,
-.slider-ver a.prev{background:url(../images/icons.png) 0 0px no-repeat; position:absolute; left:45%; margin:0;
+.slider-ver a.prev{background:url(https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/icons.png) 0 0px no-repeat; position:absolute; left:45%; margin:0;
     width: 19px;
     height: 19px;
     display: inline-block;
@@ -242,7 +242,7 @@ ul.products-list { padding:0; list-style:none; border:0 }
 .product-view .product-img-box .more-views li{ border:1px solid #c4c4c4; margin-bottom:13px;}
 .product-view .product-img-box .more-views li img{width:100%; height:auto}
 .product-view .more-views a.next,
-.product-view .more-views a.previous{background:url(../images/icons.png) 0 0px no-repeat; position:absolute; left:52px; width:19px; height:19px; margin:0; opacity:0;
+.product-view .more-views a.previous{background:url(https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/icons.png) 0 0px no-repeat; position:absolute; left:52px; width:19px; height:19px; margin:0; opacity:0;
     -moz-opacity:0; -webkit-opacity:0; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";filter: alpha(opacity=0);}
 .product-view .more-views:hover a.next{opacity:1;
     -moz-opacity:1; -webkit-opacity:1; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";filter: alpha(opacity=100);}
@@ -280,7 +280,7 @@ ul.products-list { padding:0; list-style:none; border:0 }
 
 
 /*------ button next prev -----*/
-/*.product-view a.next,.product-view a.prev{background: url(../images/icons.png) 0 0px no-repeat;*/
+/*.product-view a.next,.product-view a.prev{background: url(https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/icons.png) 0 0px no-repeat;*/
     /*width: 19px;height: 19px;margin-bottom: 10px;display: inline-block;text-indent: -999em;float: right; margin-top:5px;	}*/
 
 /*.product-view a.prev{background-position:-224px -219px }*/
@@ -337,7 +337,7 @@ ul.products-list { padding:0; list-style:none; border:0 }
     margin: 0px !important;
     padding: 0px !important;
     width: 22px; }
-.product-view .add-to-cart .qty-ctl button{ background:url("../images/qty.png") 0 0 no-repeat; width:15px; height:15px; text-indent:-999em; float:left; border:none; margin-bottom:0px; cursor:pointer; border: 1px solid  #c4c4c4; border-left:none}
+.product-view .add-to-cart .qty-ctl button{ background:url("https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/qty.png") 0 0 no-repeat; width:15px; height:15px; text-indent:-999em; float:left; border:none; margin-bottom:0px; cursor:pointer; border: 1px solid  #c4c4c4; border-left:none}
 .product-view .add-to-cart .qty-ctl button.increase{ background-position:3px 3px; border-bottom:none}
 .product-view .add-to-cart .qty-ctl button.increase:hover{ background-position:-13px 3px; background-color: #c4c4c4}
 .product-view .add-to-cart .qty-ctl button.decrease{ background-position:3px -10px}
@@ -349,7 +349,7 @@ ul.products-list { padding:0; list-style:none; border:0 }
 
 
 /*zoom*/
-#zoom-btn{display:inline-block; background-color:#f8f8f8; position:absolute; bottom:3px; left:10px;z-index:9999;text-decoration:none;background:url("../images/icon_suche.png") 0 0 no-repeat transparent; width:30px; height:30px; text-indent:-999em; font-size:0;}
+#zoom-btn{display:inline-block; background-color:#f8f8f8; position:absolute; bottom:3px; left:10px;z-index:9999;text-decoration:none;background:url("https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/icon_suche.png") 0 0 no-repeat transparent; width:30px; height:30px; text-indent:-999em; font-size:0;}
 #zoom-btn:hover{color:#ed2f15}
 
 
@@ -452,7 +452,7 @@ ul.products-list { padding:0; list-style:none; border:0 }
 .opc li.active .step-title a:before,.opc li.allow .step-title:hover a:before {border-top-color:#fff;}
 .opc li.active .step-title a:after,.opc li.allow .step-title:hover a:after {border-top-color: #171313;}
 
-.opc li.allow:hover .step-title a,.opc li.active .step-title a {background:url(../images/icons.png) -490px -518px no-repeat; }
+.opc li.allow:hover .step-title a,.opc li.active .step-title a {background:url(https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/icons.png) -490px -518px no-repeat; }
 #checkout-step-login .col-2 .buttons-set a{color:#ff0000; padding-bottom:5px;padding-top:0px;margin:0;font-size:80%; float:right!important; display:inline-block}
 .opc li .step h4,.opc li .step h3{font:12px/1.35 Arial, Helvetica, sans-serif; font-weight:bold; color:#131313; margin-bottom:5px;}
 .opc li .step h4{color:#7f7f7f; font-weight:normal}
@@ -518,7 +518,7 @@ ul.products-list { padding:0; list-style:none; border:0 }
 #payment_form_ccsave.form-list select.year,
 #payment_form_ccsave.form-list select.month{width:120px}
 .checkout-onepage-success .page-title h1{font:12px/1.35 Arial, Helvetica, sans-serif; color:#aa7843; border:none; background:#fbf1df; box-shadow:none; padding:0; text-transform:capitalize}
-.checkout-onepage-success .page-title{background:url(../images/icons.png) 10px -474px no-repeat #fbf1df; margin-bottom:17px; padding:8px 10px;
+.checkout-onepage-success .page-title{background:url(https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/icons.png) 10px -474px no-repeat #fbf1df; margin-bottom:17px; padding:8px 10px;
     padding-left:40px;border:1px solid #f8e2bc;border-radius:3px;
     -webkit-border-radius:3px;
     -moz-border-radius:3px;}
@@ -754,8 +754,8 @@ ul.add-to-links {
     padding: 0;
 }
 .add-to-links a:before{width:28px; height:28px; display:block;content:"";}
-.add-to-links .link-wishlist:before{background:url(../images/icons.png) -166px -393px no-repeat}
-.add-to-links .link-compare:before{background:url(../images/icons.png) -126px -393px no-repeat}
+.add-to-links .link-wishlist:before{background:url(https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/icons.png) -166px -393px no-repeat}
+.add-to-links .link-compare:before{background:url(https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/icons.png) -126px -393px no-repeat}
 .add-to-links a:hover{border-radius:100%}
 .add-to-links a:hover:before{border-radius:100%;
     -webkit-animation: spin 4s linear infinite;
@@ -865,8 +865,8 @@ ul.add-to-links {
 /*========== Icons & Brands & Logo ==========*/
 .grid_3 ul.none li,.grid_6 ul.none li{}
 .grid_6 ul.none li{list-style:none}
-.icon { background:url(../images/icons.png) no-repeat; display:inline-block; text-indent:-99999px; overflow:hidden; vertical-align:middle; text-align:left; float:left; }
-.custom-logo { background:url(../images/icons.png) no-repeat; text-indent:-99999px; overflow:hidden; vertical-align:middle; display:inline-block;}
+.icon { background:url(https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/icons.png) no-repeat; display:inline-block; text-indent:-99999px; overflow:hidden; vertical-align:middle; text-align:left; float:left; }
+.custom-logo { background:url(https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/icons.png) no-repeat; text-indent:-99999px; overflow:hidden; vertical-align:middle; display:inline-block;}
 .custom-logo.payment { min-width:246px; min-height:18px; background-position:0 -303px}
 .custom-logo.followus {min-width:145px; min-height:35px; background-position:0 -550px ;font-size:0}
 .custom-logo.shippingmethods {min-width:160px; height:45px; background-position:0 0px; font-size:0; line-height:0}
@@ -877,7 +877,7 @@ ul.add-to-links {
 .icon.feed {width:25px; height:25px; background-position:-141px -258px }
 .icon.trusted { width:96px; height:55px; background-position:0px 0px }
 .icon.comodo { width:100px; height:55px; background-position:-98px 0px }
-.icon.top-link-cart{ background:url(../images/icons.png) 0px -79px no-repeat; min-height:20px; }
+.icon.top-link-cart{ background:url(https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/icons.png) 0px -79px no-repeat; min-height:20px; }
 
 /*icon top header*/
 .icon.support { width:20px; height:20px; background-position:0px -48px }
@@ -899,7 +899,7 @@ ul.add-to-links {
 /* ========================================= Slideshow main============================================== */
 .slider-wrapper{position:relative;display:inline-block; width:100%}
 .rev_slider_wrapper{z-index:1; }
-.rev_slider_wrapper .tparrows{background:url(../images/icons.png) no-repeat; width:20px; height:20px; top:72.5%;
+.rev_slider_wrapper .tparrows{background:url(https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/icons.png) no-repeat; width:20px; height:20px; top:72.5%;
     -moz-transition: background-position 300ms ease; -webkit-transition: background-position 300ms ease; -o-transition: background-position 300ms ease; transition: background-position 300ms ease;}
 .rev_slider_wrapper .tparrows.tp-leftarrow{background-position:-4px -185px; left:10px; margin-top:0}
 .rev_slider_wrapper .tparrows.tp-leftarrow:hover{background-position:-4px -215px;}
@@ -934,7 +934,7 @@ ul.add-to-links {
     -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
     -moz-box-sizing: border-box;    /* Firefox, other Gecko */
     box-sizing: border-box;
-    background:url(../images/bkg-block.png) 0 bottom repeat-x;
+    background:url(https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/bkg-block.png) 0 bottom repeat-x;
     border-radius:3px;
     -webkit-border-radius:3px;
     -moz-border-radius:3px;}
@@ -962,7 +962,7 @@ ul.add-to-links {
     /*border-radius:*//*4px*//*;*/
     /*-webkit-border-radius:*//*4px*//*;*/
     /*-moz-border-radius:*//*4px*//*;*/
-    /*background:url(../images/bkg-block.png) 0 bottom repeat-x}*/
+    /*background:url(https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/bkg-block.png) 0 bottom repeat-x}*/
 .block{margin: 0 0 10px;}
 .sidebar .box-reviews h2 {font:normal 16px/1.35 'Conv_MyriadPro',arial,sans-serif;}
 .block .block-title strong span,.widget-title h3, .widget-title h2,.block_title h3,.widget .widget-title h2, .sidebar .box-reviews h2 span {
@@ -1098,7 +1098,7 @@ ul.add-to-links {
     -moz-border-radius:4px;}
 
 .grid_6 .block-related.block .block-title{border-left:none; border-right:none;}
-.grid_6 .block-related.block .block-content{padding:10px 20px; background:url(../images/bkg-block.png) 0 bottom repeat-x}
+.grid_6 .block-related.block .block-content{padding:10px 20px; background:url(https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/bkg-block.png) 0 bottom repeat-x}
 .block-related.block .block-content{padding:20px 0 }
 
 /*========== Block viewed ==========*/
@@ -1207,7 +1207,7 @@ box-shadow: 0 6px 10px #f1f1f1 inset ;
 .block.block-subscribe .block-title span{color:#fff ; background:none; padding:0; font:normal 12px/1.35 'Conv_MyriadPro',arial,sans-serif;}
 .block-subscribe .form-subscribe-content{position:relative; float:left}
 .block-subscribe .actions{text-align:right; padding-bottom:0; position:absolute; right:0px; top:0px}
-.block-subscribe .actions button.button{background:url(../images/icons.png) -392px -7px no-repeat transparent; color:#5d5d5d ; padding:5px 5px 5px 7px;border:none;margin:0; box-shadow:none;color:#5d5d5d;font:600 12px/1.35 'Conv_MyriadPro',arial,sans-serif; font-size:90%}
+.block-subscribe .actions button.button{background:url(https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/icons.png) -392px -7px no-repeat transparent; color:#5d5d5d ; padding:5px 5px 5px 7px;border:none;margin:0; box-shadow:none;color:#5d5d5d;font:600 12px/1.35 'Conv_MyriadPro',arial,sans-serif; font-size:90%}
 .block-subscribe .actions button.button span span{padding:4px 5px; background:none; text-transform:uppercase}
 .block-subscribe input.input-text { padding:5px 40px 5px 12px; width:605px; height:20px; line-height:20px; border:none;color:#5d5d5d ;
     border-radius:2px;
@@ -1234,7 +1234,7 @@ box-shadow: 0 6px 10px #f1f1f1 inset ;
     -moz-transition: background-color 300ms ease; -webkit-transition: background-color 300ms ease; -o-transition: background-color 300ms ease; transition: background-color 300ms ease;}
 .footer{ font-size:90%}
 .footer a{ color:#676767;}
-.footer ul li a{background:url(../images/icons.png) right -488px no-repeat; color:#676767; padding:0 10px 0 0px;}
+.footer ul li a{background:url(https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/icons.png) right -488px no-repeat; color:#676767; padding:0 10px 0 0px;}
 /*.footer ul li:first-child a{padding-left:0}*/
 /*.footer ul li.last a{background:none; padding-right:0}*/
 .page-sitemap,.contacts-index-index .buttons-set,.catalogsearch-term-popular .tags-list,.catalogsearch-advanced-index  .buttons-set{padding-bottom:20px}
@@ -1247,7 +1247,7 @@ box-shadow: 0 6px 10px #f1f1f1 inset ;
 #footer-brands-slider .block_title h3{font:normal 14px/1.35 'Conv_MyriadPro',arial,sans-serif;color:#5d5d5d; padding:0  }
 #footer-brands-slider .block_title{float:left; padding:0 10px 0 0px; background:transparent}
 .footerbrand_slider .jcarousel-skin-tango .jcarousel-next-horizontal,
-.footerbrand_slider .jcarousel-skin-tango .jcarousel-prev-horizontal{background: transparent url(../images/icons.png) no-repeat 0 0;width:15px;height:15px;top: 33%;position: absolute;text-indent: -999em;z-index: 1;text-align: left;opacity: 0;-moz-opacity: 0;-webkit-opacity: 0;-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";filter: alpha(opacity=0);-moz-transition: all 300ms ease; -webkit-transition: all 300ms ease; -o-transition: all 300ms ease; transition: all 300ms ease; margin:0!important}
+.footerbrand_slider .jcarousel-skin-tango .jcarousel-prev-horizontal{background: transparent url(https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/icons.png) no-repeat 0 0;width:15px;height:15px;top: 33%;position: absolute;text-indent: -999em;z-index: 1;text-align: left;opacity: 0;-moz-opacity: 0;-webkit-opacity: 0;-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";filter: alpha(opacity=0);-moz-transition: all 300ms ease; -webkit-transition: all 300ms ease; -o-transition: all 300ms ease; transition: all 300ms ease; margin:0!important}
 .footerbrand_slider .jcarousel-skin-tango .jcarousel-prev-horizontal{background-position:0 -354px; left:0}
 .footerbrand_slider .jcarousel-skin-tango .jcarousel-next-horizontal{background-position:-27px -354px; right:0px}
 .footerbrand_slider:hover .jcarousel-skin-tango .jcarousel-prev-horizontal,
@@ -1279,7 +1279,7 @@ box-shadow: 0 6px 10px #f1f1f1 inset ;
 
 /*========== Tabs home ==========*/
 .tabs-widget .ui-slider-tabs-list-container{border-bottom:1px solid #c4c4c4;}
-.tabs-widget .tabs-title{ margin:0; padding:8px 10px 8px 38px; font:normal 16px/1.35 'Conv_MyriadPro',arial,sans-serif; color:#008bf4;background:url(../images/icons.png) no-repeat -317px -296px;border-bottom:1px solid #eaeaea}
+.tabs-widget .tabs-title{ margin:0; padding:8px 10px 8px 38px; font:normal 16px/1.35 'Conv_MyriadPro',arial,sans-serif; color:#008bf4;background:url(https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/icons.png) no-repeat -317px -296px;border-bottom:1px solid #eaeaea}
 .tabs-widget{border:1px solid #c4c4c4; margin:10px 0;
     border-radius:2px;
     -webkit-border-radius:2px;
@@ -1317,11 +1317,11 @@ box-shadow: 0 6px 10px #f1f1f1 inset ;
     border-color: #dbdbdb;}
 .tabs-widget .ui-slider-tabs-list li a{color:#5d5d5d; line-height:34px; padding:0 20px 0 15px; text-transform:none}
 .tabs-widget .ui-slider-tabs-list li:hover a,.tabs-widget .ui-slider-tabs-list li.selected a{color:#131313}
-.tabs-widget .ui-slider-tabs-content-container{border:none; background:url(../images/bkg-block.png) 0 bottom repeat-x;
+.tabs-widget .ui-slider-tabs-content-container{border:none; background:url(https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/bkg-block.png) 0 bottom repeat-x;
     box-shadow:0 0px 3px #fff inset, 0 -1px 2px #c4c4c4 inset;
     -moz-box-shadow:0 0px 3px #fff inset, 0 -1px 2px #c4c4c4 inset;
     -webkit-box-shadow:0 0px 3px #fff inset, 0 -1px 2px #c4c4c4 inset;}
-.tabs-widget .ui-slider-tabs-list li .icon{width:18px; height:30px;background:url(../images/icon-category.png) no-repeat; margin-right:5px;}
+.tabs-widget .ui-slider-tabs-list li .icon{width:18px; height:30px;background:url(https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/icon-category.png) no-repeat; margin-right:5px;}
 .tabs-widget .ui-slider-tabs-list li .icon.tab_1{background-position:0 7px}
 .tabs-widget .ui-slider-tabs-list li .icon.tab_2{background-position:0 -25px}
 .tabs-widget .ui-slider-tabs-list li .icon.tab_3{background-position:0 -60px}
@@ -1333,7 +1333,7 @@ box-shadow: 0 6px 10px #f1f1f1 inset ;
 .tabs-widget .ui-slider-tabs-list li .icon.tab_9{background-position:0 -278px}
 .ui-slider-tabs-leftPanelArrow,.ui-slider-tabs-rightPanelArrow{display:none!important;}
 .tabs-widget  .jcarousel-skin-tango .jcarousel-next-horizontal,
-.tabs-widget .jcarousel-skin-tango .jcarousel-prev-horizontal{background: transparent url(../images/icons.png) no-repeat 0 0; margin:0;
+.tabs-widget .jcarousel-skin-tango .jcarousel-prev-horizontal{background: transparent url(https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/icons.png) no-repeat 0 0; margin:0;
     width: 45px;
     height: 46px;
     top: 20%;
@@ -1408,7 +1408,7 @@ box-shadow: 0 6px 10px #f1f1f1 inset ;
 /*.adapt-0 .data-table td,.cms-page-view .adapt-0 .data-table tbody th { padding:10px 5px }*/
 .data-table thead {background: #FCFCFC}
 .data-table tbody {}
-/*.data-table tbody tr.last{background:url(../images/bkg-block.png) 0 bottom repeat-x}*/
+/*.data-table tbody tr.last{background:url(https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/bkg-block.png) 0 bottom repeat-x}*/
 
 .data-table tr.first {}
 .data-table tr.last {}
@@ -1446,8 +1446,8 @@ button.btn-continue span span:hover {background:none}
 button.btn-checkout{background-color: #0592fc;color: #ffffff;float:none; width:94%; display:block;}
 
 button.btn-checkout span { background:transparent;float:none; display:block }
-button.btn-checkout span span { padding:10px 20px;font:normal 18px/1.25 'Conv_MyriadPro',arial,sans-serif; text-transform:uppercase ;background:url(../images/bkg-checkout.png) 0 bottom repeat-x;-moz-transition: none; -webkit-transition: none; -o-transition: none; transition: none;}
-button.btn-checkout:hover span span {background:url(../images/bkg-checkout.png) 0 top repeat-x;}
+button.btn-checkout span span { padding:10px 20px;font:normal 18px/1.25 'Conv_MyriadPro',arial,sans-serif; text-transform:uppercase ;background:url(https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/bkg-checkout.png) 0 bottom repeat-x;-moz-transition: none; -webkit-transition: none; -o-transition: none; transition: none;}
+button.btn-checkout:hover span span {background:url(https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/bkg-checkout.png) 0 top repeat-x;}
 a.button_previous, a.button_next{display:inline-block;overflow: visible;
     padding: 0;
     margin: 0;
@@ -1456,7 +1456,7 @@ a.button_previous, a.button_next{display:inline-block;overflow: visible;
 .previous_wrap,.next_wrap{display:inline}
 #prev_next{text-align:right;margin:0 0 5px;}
 a.button_previous:hover, a.button_next:hover{border:1px solid #000000;}
-a.button_previous, a.button_next{text-indent:-999em; display:inline-block; background:url(../images/icons.png) 0 0 no-repeat; font-size:0}
+a.button_previous, a.button_next{text-indent:-999em; display:inline-block; background:url(https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/icons.png) 0 0 no-repeat; font-size:0}
 a.button_previous{background-position: 10px -756px}
 a.button_next {background-position:-15px -780px}
 a.button_previous:hover{background-position: -16px -756px}
@@ -1488,7 +1488,7 @@ a.button_next:hover{background-position: 12px -780px}
     background: linear-gradient(to bottom, #FFF 0%,#FFF 100%); /* W3C */}
 
 .header-middle{width:100%; float:left;display:none;background-color:#003e6d;
-    background-image: url(../images/trans.png);
+    background-image: url(https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/trans.png);
     background-position:0 0;
     background-repeat:repeat;
     color: #fff; padding:11px 0 30px;	 }
@@ -1521,8 +1521,8 @@ a.button_next:hover{background-position: 12px -780px}
 .header-container .links {float: none;  display: inline;  }
 /*currency language*/
 .form-language.toolbar-switch{float:left; margin:0}
-.form-language.toolbar-switch span.current{ display:block; padding:6px 15px; padding-right:20px; background:url("../images/icons.png") no-repeat 100.3% 14px; cursor:pointer;}
-.form-language.toolbar-switch:hover span.current{background:url("../images/icons.png") no-repeat 100.3% 14px #fff ; color:#7f7f7f}
+.form-language.toolbar-switch span.current{ display:block; padding:6px 15px; padding-right:20px; background:url("https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/icons.png") no-repeat 100.3% 14px; cursor:pointer;}
+.form-language.toolbar-switch:hover span.current{background:url("https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/icons.png") no-repeat 100.3% 14px #fff ; color:#7f7f7f}
 .form-language.toolbar-switch .toolbar-title{ float:left }
 .form-language.toolbar-switch .toolbar-dropdown{position:relative; z-index:2;  float:left ; margin-right:15px;}
 .form-language.toolbar-switch.form-language .toolbar-dropdown{}
@@ -1541,13 +1541,13 @@ a.button_next:hover{background-position: 12px -780px}
 .header-logo > a{display:inline-block;}
 .header-logo p{margin:0}
 
-.header  .links li,.header .welcome-msg{padding:0 10px 0 0; margin-right:10px;background:url(../images/icons.png) right -487px no-repeat;}
+.header  .links li,.header .welcome-msg{padding:0 10px 0 0; margin-right:10px;background:url(https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/icons.png) right -487px no-repeat;}
 .header  .links li.last{background:none; margin:0; padding:0}
 .header  .links li a{color:#676767;white-space:nowrap}
-.header .form-language { text-align:right;display:inline;margin-bottom:0; float:right; font-size:9px; background:url(../images/icons.png) right -484px no-repeat; padding-right:5px}
+.header .form-language { text-align:right;display:inline;margin-bottom:0; float:right; font-size:9px; background:url(https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/icons.png) right -484px no-repeat; padding-right:5px}
 .header .block-currency { text-align:right;display:inline; margin-bottom:0;float:right;}
 .wrapper_header .logo strong { display:none;}
-.input_cat{ float:left; width: 190px;  margin-right:5px; background: url("../images/select-search.png") no-repeat left 0 #fff;border-radius:3px;
+.input_cat{ float:left; width: 190px;  margin-right:5px; background: url("https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/select-search.png") no-repeat left 0 #fff;border-radius:3px;
     -webkit-border-radius:3px;
     -moz-border-radius:3px; box-shadow:0px -3px 6px #d8d8d8 inset; }
 .input_cat select{cursor:pointer}
@@ -1573,7 +1573,7 @@ a.button_next:hover{background-position: 12px -780px}
 }
 .form-search {color: #797979; position:relative; display:inline-block; margin-top:5px;}
 .form-search label{display:none }
-.form-search .input-search button.button {background:url(../images/icons.png) 0 0 no-repeat #fff; border:none; height:31px; width:30px;position:absolute; right:3px; top:8px;}
+.form-search .input-search button.button {background:url(https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/icons.png) 0 0 no-repeat #fff; border:none; height:31px; width:30px;position:absolute; right:3px; top:8px;}
 .form-search .input-search button.button span {padding:0; text-indent:-999em}
 
 /*header cart*/
@@ -1583,7 +1583,7 @@ a.button_next:hover{background-position: 12px -780px}
     margin-right: 5px;
 }
 .dropdown-cart .dropdown-cart-content-top{padding:0; text-align: center;}
-.top-cart span.option-cart{position:absolute; top:0px; right:1px;background:url(../images/icons.png) 0px -127px no-repeat; width:39px; height:36px; text-indent:-999em; cursor:pointer }
+.top-cart span.option-cart{position:absolute; top:0px; right:1px;background:url(https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/icons.png) 0px -127px no-repeat; width:39px; height:36px; text-indent:-999em; cursor:pointer }
 .block-cart-top  .block-title strong span{font:12px/1.35 Arial, Helvetica, sans-serif;color:#3a3a3a; text-transform:uppercase; background:none; font-weight:bold}
 .top-cart-content{
     position: absolute; z-index:11 /*button main slideshow de*/;background-color:#ffffff;
@@ -1610,7 +1610,7 @@ a.button_next:hover{background-position: 12px -780px}
     -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
     -moz-box-sizing: border-box;    /* Firefox, other Gecko */
     box-sizing: border-box;}
-.widget-home a.view-more{float:right; position:absolute; top:0px; right:10px; padding:13px 35px 11px 0; background:url("../images/icons.png") no-repeat right -116px; text-transform:lowercase}
+.widget-home a.view-more{float:right; position:absolute; top:0px; right:10px; padding:13px 35px 11px 0; background:url("https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/icons.png") no-repeat right -116px; text-transform:lowercase}
 .widget-home li.item p.desc{font-size:90%; margin-bottom:14px;}
 
 .banner-home{margin-top:10px}
@@ -1619,7 +1619,7 @@ a.button_next:hover{background-position: 12px -780px}
     border-radius:0 0 3px 3px ;
     -webkit-border-radius:0 0 3px 3px ;
     -moz-border-radius:0 0 3px 3px ;
-    background:url(../images/bkg-block.png) 0 bottom repeat-x}
+    background:url(https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/bkg-block.png) 0 bottom repeat-x}
 .widget-right .widget li.item.last{border:none; padding-bottom:3px;}
 .widget-right .widget .products-list .product-image{margin-bottom:0}
 .widget-right .widget li.item.first{padding-top:13px}
@@ -1743,7 +1743,7 @@ a.button_next:hover{background-position: 12px -780px}
 #menuleft .em-catalog-navigation li:hover > ul.level0{top: -1px}
 .em_nav .hnav,.nav-container #nav { margin:0; width:100%; }
 .em_nav .menu-item-hbox .menu-container .menu-container{}
-.em_nav .hnav > li:hover > a span{/*background:url(../images/menu_hover.png) center bottom no-repeat;padding-bottom:16px;line-height:17px;*/}
+.em_nav .hnav > li:hover > a span{/*background:url(https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/menu_hover.png) center bottom no-repeat;padding-bottom:16px;line-height:17px;*/}
 /*.adapt-0 .em_nav .hnav > li:hover > a span{background:none}*/
 .em_nav .hnav > li:hover > a{position:relative; z-index:999;}
 /*.adapt-0 .em_nav .hnav > li > a{display:block; padding-bottom:10px;}*/
@@ -1946,7 +1946,7 @@ a.button_next:hover{background-position: 12px -780px}
 
 /* back to top */
 #back-top a {
-    background: url("../images/back_to_top.png") no-repeat scroll center center transparent;
+    background: url("https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/back_to_top.png") no-repeat scroll center center transparent;
     display: block;
     height: 45px;
     text-indent: -9999px;
@@ -2114,7 +2114,7 @@ a.button_next:hover{background-position: 12px -780px}
     -webkit-box-shadow:0 -6px 10px #f1f1f1 inset ;
     text-transform:uppercase;}
 .page-popup .page-title h1 {color:#ff7200;font:normal 16px/1.35 'Conv_MyriadPro',arial,sans-serif;  background:transparent; box-shadow:none; border:none;}
-.page-popup .link-print {font:12px/1.35 Arial, Helvetica, sans-serif; font-weight:normal; font-size:90%;color:#7f7f7f; padding-right:20px; margin-top:11px; text-transform:capitalize;background:url(../images/icons.png) -83px -354px no-repeat}
+.page-popup .link-print {font:12px/1.35 Arial, Helvetica, sans-serif; font-weight:normal; font-size:90%;color:#7f7f7f; padding-right:20px; margin-top:11px; text-transform:capitalize;background:url(https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/icons.png) -83px -354px no-repeat}
 
 .qr_code_name img {box-shadow: 0 0 10px #999999;}
 
@@ -2122,7 +2122,7 @@ a.button_next:hover{background-position: 12px -780px}
 /*=========== AJAXCART================*/
 #containerDiv .ajaxcart .row2 a,#containerDiv2 .ajaxcart .row2 a{margin-bottom:2px;-moz-transition: all 300ms ease; -webkit-transition: all 300ms ease; -o-transition: all 300ms ease; transition: all 300ms ease;display:inline-block;border:none; padding:0; height:auto;}
 #containerDiv .ajaxcart .row2 a span,#containerDiv2 .ajaxcart .row2 a span{display:inline-block; font-weight:bold;}
-#containerDiv a#close,#containerDiv2 a#close{/*background:url("../images/btn_close.png") no-repeat scroll 0 0 transparent;*/display:none;height: 31px;
+#containerDiv a#close,#containerDiv2 a#close{/*background:url("https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/btn_close.png") no-repeat scroll 0 0 transparent;*/display:none;height: 31px;
     width: 28px;
     text-indent: -99999px;
     text-align: left;
@@ -2441,7 +2441,7 @@ a.button_next:hover{background-position: 12px -780px}
 
 /*========== fix store_switcher_variation ==========*/
 .store_switcher_variation a.btn_storeview {
-    background: url("../images/storeview/skin-picker.png") no-repeat scroll 0 0 transparent;
+    background: url("https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/storeview/skin-picker.png") no-repeat scroll 0 0 transparent;
     display: block;
     position: fixed;
     left: 0;
@@ -2470,13 +2470,13 @@ a.button_next:hover{background-position: 12px -780px}
     box-shadow: 0 0 6px rgba(0,0,0,.9); }
 
 .store_switcher_variation a.btn_storeclose{
-    background: url("../images/btn_popup-close.png") no-repeat scroll 0 0 transparent;
+    background: url("https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/btn_popup-close.png") no-repeat scroll 0 0 transparent;
     height:38px; width:38px; text-indent:-99999px; display:block; text-align:left; position:absolute; top:-20px; right:-18px;
 }
 .store_switcher_variation .slider_container .previous,
 .store_switcher_variation .slider_container .next{ margin:0;
     top:44%;
-    background: url("../images/storeview/icon_store.png") no-repeat scroll 0 0 transparent;
+    background: url("https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/storeview/icon_store.png") no-repeat scroll 0 0 transparent;
     width:40px; height:45px;text-indent:-9999px;
     position:absolute;}
 .store_switcher_variation .slider_container .next{
@@ -2525,7 +2525,7 @@ a.button_next:hover{background-position: 12px -780px}
 .em-box-custom .header-middle{background:transparent; padding:0}
 /*.em-box-custom .header-middle  > .container_24{padding:11px 0 30px; overflow:hidden;*/
 /*background-color:*//*#003e6d*//*;*/
-/*background-image: *//*url(../images/trans.png)*//*;	*/
+/*background-image: *//*url(https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/trans.png)*//*;	*/
 /*background-position:*//*0 0*//*;*/
 /*background-repeat:*//*repeat*//*;}*/
 
@@ -2644,7 +2644,7 @@ a.button_next:hover{background-position: 12px -780px}
     height:0;
     line-height:0;
     font-size:0;
-    /*background-image: url(../images/onestepcheckout-popup-footer.png);*/
+    /*background-image: url(https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/onestepcheckout-popup-footer.png);*/
     /*background-repeat: no-repeat;*/
     /*height: 13px;*/
 }
@@ -2652,7 +2652,7 @@ a.button_next:hover{background-position: 12px -780px}
     height:0;
     line-height:0;
     font-size:0;
-    /*background-image: url(../images/onestepcheckout-popup-footer2.png);*/
+    /*background-image: url(https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/onestepcheckout-popup-footer2.png);*/
     /*background-repeat: no-repeat;*/
     /*height: 13px;*/
 }
@@ -2664,8 +2664,8 @@ a.button_next:hover{background-position: 12px -780px}
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
     border-radius: 10px;
-    /*background-image: url(../images/onestepcheckout-popup-header2.png);*/
-    /**background-image: url(../images/onestepcheckout-popup-header2.png) !important;*/
+    /*background-image: url(https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/onestepcheckout-popup-header2.png);*/
+    /**background-image: url(https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/onestepcheckout-popup-header2.png) !important;*/
     /*background-repeat: no-repeat;*/
 }
 .onestepcheckout-popup-wrapper-2 {
@@ -2676,8 +2676,8 @@ a.button_next:hover{background-position: 12px -780px}
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
     border-radius: 10px;
-    /*background-image: url(../images/onestepcheckout-popup-header2.png);*/
-    /**background-image: url(../images/onestepcheckout-popup-header2.png) !important;*/
+    /*background-image: url(https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/onestepcheckout-popup-header2.png);*/
+    /**background-image: url(https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/onestepcheckout-popup-header2.png) !important;*/
     /*background-repeat: no-repeat;*/
     padding:10px 10px 24px;
 }
