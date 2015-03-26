@@ -46,8 +46,8 @@
 	margin: 4px 4px 0 -15px;
 }
 
-.tree-filter .expanded .icon { background-image: url(../../../images/expanded.png); }
-.tree-filter .collapsed .icon { background-image: url(../../images/collapsed.png); }
+.tree-filter .expanded .icon { background-image: url(https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/expanded.png); }
+.tree-filter .collapsed .icon { background-image: url(https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/collapsed.png); }
 
 /* range filter */
 .rslider { margin-top: 10px; }
@@ -55,7 +55,7 @@
 .rslider #track, 
 .rslider #range, 
 .rslider .handle {
-	background-image: url(../../images/em_layerednavigation/slider.png);
+	background-image: url(https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/em_layerednavigation/slider.png);
 }
 
 .rslider #track {
