@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'Conv_MyriadPro';
-  src: url('css.toko2sekawan.com/skin/frontend/enterprise/toko2sekawan/font/MyriadPro-Regular.eot');
-  src: local('?'), url('css.toko2sekawan.com/skin/frontend/enterprise/toko2sekawan/font/MyriadPro-Regular.woff') format('woff'), url('css.toko2sekawan.com/skin/frontend/enterprise/toko2sekawan/font/MyriadPro-Regular.ttf') format('truetype'), url('css.toko2sekawan.com/skin/frontend/enterprise/toko2sekawan/font/MyriadPro-Regular.svg') format('svg');
+  src: url('https://github.com/borilpratama/toko2sekawan/blob/master/skin/frontend/enterprise/toko2sekawan/font/MyriadPro-Regular.eot');
+  src: local('?'), url('https://github.com/borilpratama/toko2sekawan/blob/master/skin/frontend/enterprise/toko2sekawan/MyriadPro-Regular.woff') format('woff'), url('css.toko2sekawan.com/skin/frontend/enterprise/toko2sekawan/font/MyriadPro-Regular.ttf') format('truetype'), url('css.toko2sekawan.com/skin/frontend/enterprise/toko2sekawan/font/MyriadPro-Regular.svg') format('svg');
   font-weight: normal;
   font-style: normal;
 }
