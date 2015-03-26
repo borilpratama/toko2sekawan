@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'Conv_MyriadPro';
-  src: url('https://github.com/borilpratama/toko2sekawan/blob/master/skin/frontend/enterprise/toko2sekawan/font/MyriadPro-Regular.eot');
-  src: local('?'), url('https://github.com/borilpratama/toko2sekawan/blob/master/skin/frontend/enterprise/toko2sekawan/MyriadPro-Regular.woff') format('woff'), url('css.toko2sekawan.com/skin/frontend/enterprise/toko2sekawan/font/MyriadPro-Regular.ttf') format('truetype'), url('css.toko2sekawan.com/skin/frontend/enterprise/toko2sekawan/font/MyriadPro-Regular.svg') format('svg');
+  src: url('https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/font/MyriadPro-Regular.eot');
+  src: local('?'), url('https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/MyriadPro-Regular.woff') format('woff'), url('css.toko2sekawan.com/skin/frontend/enterprise/toko2sekawan/font/MyriadPro-Regular.ttf') format('truetype'), url('css.toko2sekawan.com/skin/frontend/enterprise/toko2sekawan/font/MyriadPro-Regular.svg') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -13,7 +13,7 @@
   *margin-right: .3em;
   line-height: 14px;
   vertical-align: text-top;
-  background-image: url("../images/toko2sekawan-icons.png");
+  background-image: url("https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/toko2sekawan-icons.png");
   background-position: 14px 14px;
   background-repeat: no-repeat;
   margin-top: 1px;
@@ -323,7 +323,7 @@ button.skButton.action:after,
   *margin-right: .3em;
   line-height: 14px;
   vertical-align: text-top;
-  background-image: url("../images/toko2sekawan-icons.png");
+  background-image: url("https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/toko2sekawan-icons.png");
   background-position: 14px 14px;
   background-repeat: no-repeat;
   margin-top: 1px;
@@ -902,7 +902,7 @@ button.greyButton {
   *margin-right: .3em;
   line-height: 14px;
   vertical-align: text-top;
-  background-image: url("../images/toko2sekawan-icons.png");
+  background-image: url("https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/toko2sekawan-icons.png");
   background-position: 14px 14px;
   background-repeat: no-repeat;
   margin-top: 1px;
@@ -2249,7 +2249,7 @@ input.qty {
   left: 0;
   right: 0;
   margin: auto;
-  background: #ffffff url("../images/loader.gif") center no-repeat;
+  background: #ffffff url("https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/loader.gif") center no-repeat;
 }
 .reorderFooter {
   padding: 10px 0;
@@ -3545,7 +3545,7 @@ button.cart-popup-checkout
     line-height: 24px;
     padding: 20px 24px 20px 48px;
     border-bottom: 1px solid #efefef;
-    background: url("../images/icon-nav.png") no-repeat;
+    background: url("https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/icon-nav.png") no-repeat;
   }
   .leftnav ul li.home {
     background-position: 12px 20px;
@@ -3634,7 +3634,7 @@ button.cart-popup-checkout
     display: block;
     padding: 12px 30px 12px 12px;
     line-height: 24px;
-    background: url("../images/arrow.png") no-repeat right center;
+    background: url("https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/arrow.png") no-repeat right center;
     color: #414141;
     font-size: 14px;
   }
@@ -3692,7 +3692,7 @@ button.cart-popup-checkout
     display: block;
     padding: 12px 30px 12px 12px;
     line-height: 24px;
-    background: url("../images/arrow.png") no-repeat right center;
+    background: url("https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/arrow.png") no-repeat right center;
     color: #414141;
     font-size: 16px;
   }
@@ -5656,7 +5656,7 @@ button.cart-popup-checkout
 }
 
 .toko2sekawan_modal_close {
-  background: url(../images/close.png) no-repeat;
+  background: url(.https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/close.png) no-repeat;
 }
 .video-container {
     position: relative;
@@ -5726,28 +5726,28 @@ button.cart-popup-checkout
 	float:left;
 }
 .icon_name {
-	background:url("../images/toko2sekawan-icons.png") no-repeat -197px -158px;
+	background:url("https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/toko2sekawan-icons.png") no-repeat -197px -158px;
   	display: inline-block;
   	width: 20px;
   	height:16px;
   	
 }
 .icon_phone {
-	background: url("../images/toko2sekawan-icons.png") no-repeat -136px -131px;
+	background: url("https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/toko2sekawan-icons.png") no-repeat -136px -131px;
 	/* background-position: 0 -24px; */
 	display: inline-block;
 	width: 20px;
 	height: 16px
 }
 .icon_mail {
-	background:url("../images/toko2sekawan-icons.png") no-repeat;
+	background:url("https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/toko2sekawan-icons.png") no-repeat;
   	background-position: -178px -122px;
   	display: inline-block;
   	width: 20px;
   	height:16px;
 }
 .icon_address {
-	background:url("../images/toko2sekawan-icons.png") no-repeat;
+	background:url("https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/toko2sekawan-icons.png") no-repeat;
   	background-position: -237px -140px;
   	display: inline-block;
   	width: 20px;
@@ -5825,7 +5825,7 @@ button.cart-popup-checkout
   display        : inline-block;
   position       : relative;
   height         : 24px;
-  background     : url('../images/stars-orange.png') repeat-x 0 0;
+  background     : url('https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/stars-orange.png') repeat-x 0 0;
   vertical-align : bottom;
   margin-bottom  : 20px;
   width: 120px;
@@ -5861,7 +5861,7 @@ button.cart-popup-checkout
 
 .starRating       input:checked       + label,
 .starRating:hover input:checked:hover + label{
-  background : url('../images/stars-orange.png') repeat-x 0 -24px;
+  background : url('https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/stars-orange.png') repeat-x 0 -24px;
 }
 
 .starRating:hover input:checked + label{
@@ -5869,7 +5869,7 @@ button.cart-popup-checkout
 }
 
 .starRating:hover input:hover + label{
-  background : url('../images/stars-orange.png') repeat-x 0 -48px;
+  background : url('https://raw.githubusercontent.com/borilpratama/toko2sekawan/master/skin/frontend/enterprise/toko2sekawan/images/stars-orange.png') repeat-x 0 -48px;
 }
 .starRating label {
   padding: 0px !important;
